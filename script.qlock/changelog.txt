@@ -1,3 +1,12 @@
+0.0.9
+-fixed: spelling in English layout
+
+0.0.8
+-fixed: two o'clock in Serbian
+
+0.0.7
+- added: Croatian layout, thanks Zrino
+
 0.0.6
 - added: German layout, thanks donabi
 - added: fix for german layout at one o'clock
